@@ -2,6 +2,11 @@
 This script allow you to send a percentage of your token to a list of wallets
 
 
+
+<p align="center">
+  <img src="https://github.com/trytocatcharg/web3-transfer/blob/master/Web3.jpg"/>
+</p>
+
 <h1 align="center">Transfer Token using web3js to a list of wallet</h1>
 
 
