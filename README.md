@@ -2,7 +2,7 @@
 This script allow you to send a percentage of your token to a list of wallets
 
 
-<h1 align="center">token transfer to a list of wallet</h1>
+<h1 align="center">Transfer Token using web3js to a list of wallet</h1>
 
 
 ### Installation Instructions
