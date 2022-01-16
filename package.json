@@ -1,0 +1,17 @@
+{
+  "name": "transfer-bsc",
+  "version": "0.0.1",
+  "description": "A free script to transfer a % token to any wallet using web3js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "node-test": "node -v && npm -v"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "10.0.0",
+    "web3": "^1.6.1"
+  }
+}
